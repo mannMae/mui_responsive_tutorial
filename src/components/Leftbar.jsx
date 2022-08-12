@@ -13,7 +13,7 @@ import {
 import { Typography } from "@mui/material";
 
 const Wrapper = styled("div")(({ theme }) => ({
-  height: "130vw",
+  height: "100vh",
   color: "white",
   paddingTop: theme.spacing(10),
   backgroundColor: theme.palette.primary.main,
